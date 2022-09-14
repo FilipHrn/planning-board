@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# ToDo
+- Welcome page info
+- Strapi setup
+- Register
+- Login
