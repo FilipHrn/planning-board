@@ -3,3 +3,4 @@
 - Strapi setup
 - Register
 - Login
+- Opt rendering / performance
