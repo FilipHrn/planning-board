@@ -1,23 +1,16 @@
 import Head from 'next/head'
-import Header from '../components/Header/Header.jsx'
+import Layout from '../components/layout/Layout'
 
 export default function Home() {
   return (
     <div>
       <Head>
         <title>Planning Board - Home</title>
-        <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Header />
-
-      <main>
-        
-      </main>
-
-      <footer>
-        
-      </footer>
+      <Layout>
+        Home Page
+      </Layout>
 
       <style jsx global>{`
         html,
